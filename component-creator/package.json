@@ -1,0 +1,16 @@
+{
+  "name": "component-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cr-comp": "node utils/component-creator --s --n",
+    "cr-cont": "node utils/component-creator --n"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
